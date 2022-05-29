@@ -1,0 +1,2 @@
+model_checkpoint_path: "engage_project_tunned"
+all_model_checkpoint_paths: "engage_project_tunned"
