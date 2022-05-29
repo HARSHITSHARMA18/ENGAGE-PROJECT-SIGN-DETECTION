@@ -47,5 +47,5 @@ Tensorboard will be accessible through your browser and you will be able to see 
 <br />
 
 
-<b>ERROR 
+<b>ERROR: 
 Majority of error's solution can be found out here:https://docs.google.com/document/d/1wvrP5ZckR878VLZdDFavWc-63xM15BzSVw8bUVJfXQ8/edit?usp=sharing
