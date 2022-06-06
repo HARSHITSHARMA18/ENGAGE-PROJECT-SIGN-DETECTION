@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>C.3c832062-de24-11ec-9bfd-04421acf8c44.jpg</filename>
+	<path>C:\HARSHIT WORKSPACE\TENSERFLOW PROJECT 1\TFODCourse\Tensorflow\workspace\images\collectedimages\C\C.3c832062-de24-11ec-9bfd-04421acf8c44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>172</ymin>
+			<xmax>405</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>
