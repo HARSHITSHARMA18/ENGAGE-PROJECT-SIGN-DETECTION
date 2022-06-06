@@ -49,3 +49,6 @@ Tensorboard will be accessible through your browser and you will be able to see 
 
 <b>ERROR: 
 Majority of error's solution can be found out here:https://docs.google.com/document/d/1wvrP5ZckR878VLZdDFavWc-63xM15BzSVw8bUVJfXQ8/edit?usp=sharing
+
+<b>DEMO VIDEO 
+ https://drive.google.com/file/d/1L9GsHdFKbnCqrfZD6ABYU6QC2ANzBETm/view?usp=sharing
